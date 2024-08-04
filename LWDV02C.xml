@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>LWD</name>
+      <longname>Long Way Down</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CW01 Doomed Traveler</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>CW02 Sister of the Mass</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When another creature or artifact you control is put into your graveyard from the battlefield, gain 1 life.</text>
+    </card>
+    <card>
+      <name>CW03 Pious Fool</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Pious Fool dies, create a Shovel token. (Its an artifact with “{2}, {T}, Sacrifice this: Surveil 2.”)</text>
+    </card>
+    <card>
+      <name>CW05 Disfigured Yearling</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Unsettled — When Disfigured Yearling attacks, if a card left your graveyard this turn, it gains +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW06 Miner Adept</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Miner Adept attacks, Dig 1. (You may exile a cards from your graveyard: Create a tapped Treasure, Trinket, or Shovel token. Repeat )</text>
+    </card>
+    <card>
+      <name>CW04 Blade Naturalist</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike</text>
+    </card>
+    <card>
+      <name>CW07 Student of the Old Way</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{W}: Student of the Old Way gains your choice of First strike or Vigilance until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CW08 Scrapheap Scout</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct  </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scrapheap Scout attacks, create a Trinket token. (It’s an artifact with  “{1}, {T}, Sacrifice this: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.”)
+Unearth {4}</text>
+    </card>
+    <card>
+      <name>CW09 Spirit of Faded Dreams</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Spirit of Faded Dreams enters, exile up to one target card from a graveyard.
+Intrude 1W  (You may cast this card from your graveyard for its intrude cost. When it enters or if it would leave the field, exile it.)</text>
+    </card>
+    <card>
+      <name>CW10 Memory of the Many</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+3W: Creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW11 Knight of High Peaks</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Knight of High Peaks enters, put a +1/+1 counter on another target creature you control.
+Intrude 2W (You may cast this card from your graveyard for its intrude cost. When it enters or if it would leave the field, exile it.)</text>
+    </card>
+    <card>
+      <name>CW12 Moment of Valor</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Untap target creature. It gets +1/+0 and gains indestructible until end of turn.
+• Destroy target creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>CW14 Grim Confrontation</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Deal 3 damage to target attacking or blocking creature. If it was a token, deal 5 damage to it instead.</text>
+    </card>
+    <card>
+      <name>CW15 Bedtime Whispers</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to one target card in a graveyard. Create a tapped 1/1 white Spirit creature token.</text>
+    </card>
+    <card>
+      <name>CU01 Vicious Pixie</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+2U: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CU02 Doomed Mariners</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Doomed mariners dies, Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CU05 Haunt of Buyan</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Pirate Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Prowess</text>
+    </card>
+    <card>
+      <name>CU04 Buyan Diver</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Buyan Diver enters, tap target creature an opponent controls.
+Intrude 2U (You may cast this card from your graveyard for its intrude cost. When it enters or if it would leave the field, exile it.)</text>
+    </card>
+    <card>
+      <name>CU06 Faceless Hexmage</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Merfolk Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Faceless Hexmage enters, look at the top two cards of your library. You may reveal an instant or sorcery card from among them and put them into your hand. Put the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>CU07 East Wind Brother</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When East Wind Brother enters, draw a card, then discard a card.
+Intrude 2U (You may cast this card from your graveyard for its intrude cost. When it enters or if it would leave the field, exile it.)</text>
+    </card>
+    <card>
+      <name>CU03 Serenity Seawitch</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Unsettled — Whenever one or more cards leave your graveyard, put a +1/+1 counter on East Wind Brother. It can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>CU08 Awakened Crustacean</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Crab Giant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+As an additional cost to cast this spell, exile two instant or sorcery cards from your graveyard.</text>
+    </card>
+    <card>
+      <name>CU09 Faceless Mourner</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Merfolk Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Faceless Mourner enters, mill four cards, then Gravecast 4. (Exile up to one instant or sorcery from your graveyard with mana value 4 or less. You may cast it from exile until the end of your next turn. If a spell cast this way would be put into a graveyard, exile it instead.)</text>
+    </card>
+    <card>
+      <name>CU10 Muffle</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}.
+Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>CU11 Soul Read</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choose one —
+• Counter target spell unless its controller pays {4}.
+• Draw two cards.</text>
+    </card>
+    <card>
+      <name>CU12 Mind Choir</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it targets a token.
+The owner of target nonland permanent puts it on the top or bottom of their library.</text>
+    </card>
+    <card>
+      <name>CU13 Shore Up</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+1 and hexproof until end of turn. Untap it. (This permanent can’t be the target of spells or abilities your opponents control.)</text>
+    </card>
+    <card>
+      <name>CU15 Consider</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1. 
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CB03Corpse Acolyte</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Bury 1B (Exile this card from your graveyard with an entomb counter on it. Create a Tomb token with “{2}, {T}, Sacrifice this: Create a copy of the buried creature, except its a Zombie in addition to its other types.”)</text>
+    </card>
+    <card>
+      <name>CB02 Plague Bearer</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+    </card>
+    <card>
+      <name>CB01 Morguehound</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Restless (This creature enters with your choice of a haste or menace counter.)
+When Morguehound attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>CB04 Marrow Malevolent</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Marrow Malevolent enters, you may sacrifice an artifact or creature. If you do, put a +1/+1 counter on it and gain 1 life.</text>
+    </card>
+    <card>
+      <name>CB05 Pledge Cursed</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pledge Cursed attacks or blocks, you lose 1 life.
+Bury 2B (Exile this card from your graveyard with an entomb counter on it. Create a Tomb token with “{2}, {T}, Sacrifice this: Create a copy of the buried creature, except its a Zombie in addition to its other types.”)</text>
+    </card>
+    <card>
+      <name>CB08 Youth-Clinging</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Skeleton Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B Exile Youth-Clinging from your graveyard: Dig 1. Activate only as a sorcery. (You may exile a cards from your graveyard: Create a tapped Treasure, Trinket, or Shovel token. Repeat )</text>
+    </card>
+    <card>
+      <name>CB07 Dread Executive</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Dread Executive enters tapped.</text>
+    </card>
+    <card>
+      <name>CB06 Abomination of Man</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Restless (This creature enters with your choice of a haste or menace counter.)
+Bury 2BB (Exile this card from your graveyard with an entomb counter on it. Create a Tomb token with “{2}, {T}, Sacrifice this: Create a copy of the buried creature, except its a Zombie in addition to its other types.”)</text>
+    </card>
+    <card>
+      <name>CB09 Six-Mouth Stalker</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wolf Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Unsettled — When Six-Mouth Stalker enters, target creature gets -1/-1 until end of turn. If a card left your graveyard this turn, up to six target creatures get -1/-1 until end of turn instead.</text>
+    </card>
+    <card>
+      <name>CB10 Strength to Unrest</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to one target card from a graveyard. Target creature you control gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CB11 Flechette</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or exile three creature cards from your graveyard.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>CB12 Midnight Assault</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until end of turn. 
+Dig 1. (You may exile a cards from your graveyard: Create a tapped Treasure, Trinket, or Shovel token. Repeat )</text>
+    </card>
+    <card>
+      <name>CB13 Vanquish the Unholy</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if it targets a token.
+Exile target creature.</text>
+    </card>
+    <card>
+      <name>CB14 Overwhelming Grief</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent loses 2 life and you gain 2 life. 
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CR01 Botched Operant</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Botched Operant enters, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>CR02 Metal Cadaver</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Metal Cadaver enters tapped.
+When Metal Cadaver enters or dies, create a Trinket token. (It’s an artifact with  “{1}, {T}, Sacrifice this: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CR03 Witch Blade Student</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock  </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+2RT: Exile target card from a graveyard. If it was an instant or sorcery, put a +1/+1 counter on Witch Blade Student.</text>
+    </card>
+    <card>
+      <name>CR04 Vessel of War</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vessel of War enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+Unearth {4} ({4}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CR05 Tainted Bloodline</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Restless (This creature enters with your choice of a haste or menace counter.)</text>
+    </card>
+    <card>
+      <name>CR06 Bishops Crimson</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cleric  Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more artifacts you control are put into your graveyard, put a +1/+1 counter on Bishops Crimson.</text>
+    </card>
+    <card>
+      <name>CR07 Trinket Tracker</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Trinket Tracker enters, create a Trinket token. (It’s an artifact with  “{1}, {T}, Sacrifice this: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CR08 Blade of the Coven</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Ward—Pay 2 life.  (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life. .)
+Prowess</text>
+    </card>
+    <card>
+      <name>CR09 Hexapod Sentry</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Spider Construct </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+2R Exile two cards from your graveyard: Hexapod Sentry gains first strike until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CR10 Harness Your Bloodline</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +3/+0 and First strike until end of turn.
+If you control a Warlock, exile the top card of your library. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>CR11 March Into Fire</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>March Into Fire deals 6 damage to target creature and 3 damage to up to one target creature token.</text>
+    </card>
+    <card>
+      <name>CR12 Raze the Effigy</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Target attacking creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR13 Pick at the Earth</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards. Dig 1. (You may exile one card from your graveyard: Create a tapped Treasure, Trinket, or Shovel token.)</text>
+    </card>
+    <card>
+      <name>CR14 Hellblast</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Deal 4 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>CR15 Heretical brand</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Deal 2 damage to any target. Create a Trinket token. (It’s an artifact with  “{1}, {T}, Sacrifice this: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CG01 Bloodcap Colony</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Unsettled — At the beginning of your end step, if a card left your graveyard this turn, put a +1/+1 counter on this card.</text>
+    </card>
+    <card>
+      <name>CG02 Dreni Inquisitor</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color. </text>
+    </card>
+    <card>
+      <name>CG03 Sweetbelly Humble</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Sweetbelly Humble enters, gain 2 life.
+Intrude {G} (You may cast this card from your graveyard for its intrude cost. When it enters or if it would leave the field, exile it.)</text>
+    </card>
+    <card>
+      <name>CG08 Chort Sap</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance.
+Unsettled — When Chort Sap attacks, if a card left your graveyard this turn, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>CG04 Leshy Greene</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to Leshy Greene, exile a creature from your graveyard.</text>
+    </card>
+    <card>
+      <name>CG05 Druid of Fell Rites</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Warlock Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Druid of Fell Rites enters, mill three cards. You may put a land card from among the milled cards into your hand.
+Intrude {2} (You may cast this card from your graveyard for its intrude cost. When it enters or if it would leave the field, exile it.)</text>
+    </card>
+    <card>
+      <name>CG10 Woodland Tyrant</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay 2GG and exile three lands from your graveyard rather than pay this spell’s mana cost.
+Trample</text>
+    </card>
+    <card>
+      <name>CG09 Indrik Rhino</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Bury 4GG (Exile this card from your graveyard with an entomb counter on it. Create a Tomb token with “{2}, {T}, Sacrifice this: Create a copy of the buried creature, except its a Zombie in addition to its other types.”)</text>
+    </card>
+    <card>
+      <name>CG07 Blind Balladist</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Blind Balladist deals combat damage to a player, you may destroy target artifact token that player controls. 
+Bury 3{G}{G} (Exile this card from your graveyard with an entomb counter on it. Create a Tomb token with “{2}, {T}, Sacrifice this: Create a copy of the buried creature, except its a Zombie in addition to its other types.”)</text>
+    </card>
+    <card>
+      <name>CG14 Return to Nature</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+    </card>
+    <card>
+      <name>CG11 Bad Turn</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+0 until end of turn. If its a token, put a +1/+1 counter on it instead. It deals damage equal to its power to target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>CG12 Scout a Clearing</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>CG13 Brutalize</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+1 until end of turn. Then it fights target creature you don’t control and up to one target creature token.</text>
+    </card>
+    <card>
+      <name>CG06 Cemetery Hags</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cemetery Hags enters, return target permanent from your graveyard to your hand.
+When Cemetery Hags dies, exile it.</text>
+    </card>
+    <card>
+      <name>CG15 Druidic Ritual</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards. Then you may return up to one creature card and up to one land card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CW13 Eerie Relic</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Eerie Relic enters, exile up to one target creature an opponent controls until Eerie Relic leaves the battlefield.
+When Eerie Relic enters, create a Trinket token. (It’s an artifact with  “{1}, {T}, Sacrifice this: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CB15 Cerebral Confiscation</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target opponent discards two cards.
+• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>CL01 Burial Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Burial Ruins enters, exile up to one target card in a graveyard. 
+{T}: Add {C}. 
+{T}: Add one mana of any of the exiled card’s colors.</text>
+    </card>
+    <card>
+      <name>CL02 Chapel Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel Ruins enters tapped.
+When Chapel Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>CL03 Plateau Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Plateau Ruins enters tapped.
+When Plateau Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>CL04 Bog Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Bog Ruins enters tapped.
+When Bog Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>CL05 Islet Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Islet Ruins enters tapped.
+When Islet Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>CL06 Lagoon Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lagoon Ruins enters tapped.
+When Lagoon Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>CL07 Beachfront Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Beachfront Ruins enters tapped.
+When Beachfront Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>CL08 Marsh Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Marsh Ruins enters tapped.
+When Marsh Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>CL09 Cliffside Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cliffside Ruins enters tapped.
+When Cliffside Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>CL10 Thicket Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Thicket Ruins enters tapped.
+When Thicket Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>CL11 Monument Ruins</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Monument Ruins enters tapped.
+When Monument Ruins enters, exile up to one target card from a graveyard.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>CA01 Scrapwork Mutt</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Unearth 1R (1R: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CA02 Scrapwork Cohort</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scrapwork Cohort enters, create a 1/1 colorless Soldier artifact creature token.
+Unearth 2W (2W: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CA03 Ancient Model</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Add one mana of any color. Activate only once each turn.
+Unearth {2} ({2}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CA04 Statue to Ruin</name>
+      <set rarity="common">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{6}, {T}, Sacrifice Statue to Ruin: Destroy target nonland permanent. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>RL05 Forest</name>
+      <set rarity="">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>RL02 Island</name>
+      <set rarity="">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>RL03 Swamp</name>
+      <set rarity="">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>RL04 Mountain</name>
+      <set rarity="">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>RL01 Plains</name>
+      <set rarity="">LWD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
